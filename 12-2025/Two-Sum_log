@@ -1,0 +1,6 @@
+Date: 19-12-2025
+Platform: LeetCode
+Problem: Two Sum
+Topic: Hashmap
+Key idea: store visited numbers to check complement
+Mistakes: tried nested loops O(n squared)
